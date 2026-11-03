@@ -21,9 +21,9 @@ Check that a password shorter than 8 characters is identified.
 ### Test Data
 
 ```text
-abc123
+abc123```
 
-**### Expected Resulst**
+### Expected Resulst
 Password too short
 
 
