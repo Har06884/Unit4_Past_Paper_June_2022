@@ -23,3 +23,8 @@ Check that a password shorter than 8 characters is identified.
 ```text
 abc123
 
+**### Expected Resulst**
+Password too short
+
+
+
